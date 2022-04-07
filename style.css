@@ -1,0 +1,13 @@
+@import url("https://kit-pro.fontawesome.com/releases/v6.0.0-beta3/css/pro.min.css");
+@font-face {font-family: Gilroy;src: url('https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy-Medium.ttf')}
+*{margin: 0;padding: 0;}
+body{background: #f0eef6;margin: 15px 20px;padding: 10px;}
+div{margin: 18px 0;}
+.t{font-family: Gilroy;color: #212121;font-size: 17px;}
+.st{font-family: Gilroy;color: #212121;font-size: 23px;margin-top: 20px;}
+.def{color: #262626;font-family: Sans-Serif;font-size: 13.5px;line-height: 20px;}
+li{list-style: none;}
+.point{font-size: 5px;position: relative;top: -3px;padding: 0 3px;color: #6962ff;}.point:before{font-family: FontAwesome;content: "\f111";}
+.highlight{color: #6962ff;text-decoration: underline;}
+.bold{text-decoration: bold;}
+.italix{font-style: italic;}
